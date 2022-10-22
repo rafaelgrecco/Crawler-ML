@@ -10,6 +10,8 @@ loguru = "*"
 html-parser = "*"
 lxml = "*"
 requests-html = "*"
+pymongo = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
